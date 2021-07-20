@@ -1,9 +1,9 @@
-<h1 align="centre">VCsMusicBot v5.0</h1>
+<h1 align="centre">Henshin Music</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot">
+  <a href="https://github.com/bryanasfuk/Henshin">
      <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot-red?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -19,7 +19,7 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot/fork">
+  <a href="https://github.com/bryanasufuk/Henshin/fork">
     <img src="https://img.shields.io/github/forks/LushaiMusic/VCsMusicBot?label=Fork&style=social">
     
   </a>
